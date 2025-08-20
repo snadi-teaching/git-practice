@@ -66,7 +66,7 @@ Note that this is the workflow you will be using for your group projects. Howeve
 
 ### Share your repository with others
 
-1.  Share the link to your GitHub repository as a new thread on the [course forum](https://brightspace.nyu.edu/d2l/le/434760/discussions/topics/515291/View) and invite others to collaborate... they will do so via the **forking workflow** outlined below. 
+1.  Share the link to your GitHub repository as a new thread on the [course forum](https://brightspace.nyu.edu/d2l/le/479778/discussions/topics/560674/View) and invite others to collaborate... they will do so via the **forking workflow** outlined below. 
 
 ## Part 3: Forking workflow
 
